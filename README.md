@@ -1,6 +1,6 @@
 # 📌 Booking API Testing Project
 
-# # This project is for testing the Restful Booker API using Postman and Newman.
+# This project is for testing the Restful Booker API using Postman and Newman.
 
 🛠 Technologies / Tools Used
 
