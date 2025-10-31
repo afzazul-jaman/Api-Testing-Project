@@ -21,3 +21,4 @@
 🚀 Newman setup for running the collection and generating colorful HTML reports.
 
 ✔️ Verified that API tests run successfully with proper environment variables.
+![Uploading 76526094-6249-460e-95ff-337b529fbff9.png…]()
